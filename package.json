@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@tinymce/tinymce-react": "^3.4.0",
     "Devices.css": "github:marvelapp/devices.css",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "concurrently": "^5.1.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
